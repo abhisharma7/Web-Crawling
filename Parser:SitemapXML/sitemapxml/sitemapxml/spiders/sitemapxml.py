@@ -2,7 +2,7 @@
 
 # Created by Abhishek Sharma
 
-## Script is created for learning purpose, crawling any website without website owner permission is a copyright violation.
+## Script is created for learning purpose, crawling any website without website's owner permission is a copyright violation.
 
 import re
 import six
